@@ -1,0 +1,49 @@
+#projects li.project{
+    background: gainsboro;
+    border: 1px solid black;
+    margin-right: 3%;
+    float: left;
+ width: 200px;
+ border-radius:2%;
+
+ list-style: none;
+}
+
+.aboutProject{
+    padding: 2% 30%;
+    background-color: green;
+}
+
+li{
+list-style: none;
+}
+
+h4{
+    color: white;
+    height: 50px;
+    text-align: center;
+    background-color: green;
+}
+
+.myPic{
+  
+   width: 124px;
+height: 124px;
+border-radius:72px ;
+float: left;
+margin-right: 32px;
+
+
+}
+#profileContainer{
+    float: none;
+    height: 184px;
+    padding: 3% 5%;
+    border-bottom: 1px solid gray;
+}
+
+li.project img{
+    width: 198px;
+    height: 128px;
+    border-radius: 2%;
+}
